@@ -1,2 +1,2 @@
-# Projet Cerbiotech
-Composition des maquettes d’administration pour la société Cerbiotech
+# Projet FaisTonPlein
+Application mobile réalisée sous jQuery Mobile

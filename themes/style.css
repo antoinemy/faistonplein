@@ -1,0 +1,111 @@
+#map, #map-canvas { 
+	width: 100%; 
+	height: 100%; 
+	padding: 0;
+}
+
+.navbar li:first-child {
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 40px;
+}
+
+td {
+    background-color: #1515e8;   
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+#logo {
+    max-width: 500px;
+    min-width: 250px;
+    height: auto;
+}
+
+#log, #log2 {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ee9f9f;
+    border:1px solid rgba(0,0,0,0.5);
+    color:#fff;
+}
+
+html {
+    text-transform: uppercase;   
+}
+
+#map, #map-canvas { 
+	width: 100%;
+	height: 100%;
+	padding: 0;
+}
+#map .ui-grid-c>.ui-block-b, #map .ui-grid-c>.ui-block-c, #map .ui-grid-c>.ui-block-d {
+    width: 12%;
+}
+.ui-grid-c>.ui-block-b a, .ui-grid-c>.ui-block-c a, .ui-grid-c>.ui-block-d a {
+    text-indent: 75px;
+}
+
+#map .ui-grid-c>.ui-block-a {
+    width: 64%;
+}
+
+.ui-grid-a>.ui-block-a {
+    width: 88%;
+}
+
+.ui-grid-a>.ui-block-b {
+    width: 12%;
+}
+
+.ui-table-columntoggle-btn {
+    display: none !important;
+}
+
+table {
+    border: 1px solid #f3f2df;    
+}
+
+tr {
+    border: 1px solid #f3f2df;
+}
+
+th {
+    background-color: #ffffff;
+}
+
+.ui-table td {
+    background-color: #f6c0ab;
+    width: 25%; 
+    text-align: center;
+}
+
+img {
+    width: 100%;  
+    max-width: 800px;
+}
+
+.right {
+    text-align: right;
+}
+
+div#message {
+	background-color: rgb(255, 208, 208);
+	color: red;
+	border: 1px solid red;
+	padding: 8px;
+	margin-bottom: 17px;
+	display: none;
+}
+
+.pop.in {
+	background-color: rgb(255, 208, 208);
+	color: red;
+}
+
+.pop.in p {
+	padding: 0px 20px;
+}
